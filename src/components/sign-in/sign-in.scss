@@ -1,0 +1,20 @@
+.sign-in-container {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+
+  h2 {
+    
+    margin: 10px 0;
+  }
+
+  h1{
+    font-weight: 400;
+    font-size: 28px;
+  }
+
+  .buttons-container{
+    display: flex;
+    justify-content: space-between;
+  }
+}
